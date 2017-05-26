@@ -153,6 +153,7 @@
 ### [How to Use Configuration Delegation in IIS 7.0](manage/managing-your-configuration-settings/how-to-use-configuration-delegation-in-iis.md)
 ### [Shared Configuration](manage/managing-your-configuration-settings/shared-configuration_264.md)
 ### [Using Configuration Editor: Generate Scripts](manage/managing-your-configuration-settings/using-configuration-editor-generate-scripts.md)
+
 ### [Editing Collections with Configuration Editor](manage/managing-your-configuration-settings/editing-collections-with-configuration-editor.md)
 ### [Editing Collections using Configuration Editor: Complex Sections](manage/managing-your-configuration-settings/editing-collections-using-configuration-editor-complex-sections.md)
 ## Scripting
@@ -184,6 +185,8 @@
 ## Working with Server Core
 ### [Using IIS with Windows Server Core](manage/working-with-server-core/using-iis-with-windows-server-core.md)
 ### [IIS 7.0 on Server Core](manage/working-with-server-core/iis-70-on-server-core.md)
+## Disaster Recovery 
+### [Disaster Recovery to Azure using Site Recovery](https://aka.ms/asr-link-from-iis)
 # Develop
 ## Runtime Extensibility
 ### [Extending Web Server Functionality in .NET](develop/runtime-extensibility/extending-web-server-functionality-in-net.md)
