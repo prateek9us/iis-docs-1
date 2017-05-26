@@ -117,8 +117,7 @@
 ### [Provisioning Options in IIS 7](manage/provisioning-and-managing-iis/provisioning-options-in-iis-7.md)
 ### [Using Managed APIs in IIS 7](manage/provisioning-and-managing-iis/using-managed-apis-in-iis-7.md)
 ### [Provisioning Sample in C#](manage/provisioning-and-managing-iis/provisioning-sample-in-c.md)
-### [Configure Logging in IIS](manage/provisioning-and-managing-iis/configure-logging-in-iis.md)
-### [Managing IIS Log File Storage](manage/provisioning-and-managing-iis/managing-iis-log-file-storage.md)
+### [Configure Logging in IIS](manage/provisioning-and-managing-iis/configure-logging-in-iis.md)### [Managing IIS Log File Storage](manage/provisioning-and-managing-iis/managing-iis-log-file-storage.md)
 ## Configuring Security
 ### [Configuring SSL in IIS Manager](manage/configuring-security/configuring-ssl-in-iis-manager.md)
 ### [Application Pool Identities and SQL Server Express](manage/configuring-security/application-pool-identities-and-sql-server-express.md)
@@ -128,19 +127,17 @@
 ### [How to Set Up SSL on IIS 7](manage/configuring-security/how-to-set-up-ssl-on-iis.md)
 ### [Configuring One-to-One Client Certificate Mappings](manage/configuring-security/configuring-one-to-one-client-certificate-mappings.md)
 ### [Using Enhanced Request Filtering Features in IIS7](manage/configuring-security/using-enhanced-request-filtering-features-in-iis.md)
-### [Using Dynamic IP Restrictions](manage/configuring-security/using-dynamic-ip-restrictions.md)
-### [Application Pool Identities](manage/configuring-security/application-pool-identities.md)
+### [Using Dynamic IP Restrictions](manage/configuring-security/using-dynamic-ip-restrictions.md)### [Application Pool Identities](manage/configuring-security/application-pool-identities.md)
 ### [Ensure Security Isolation for Web Sites](manage/configuring-security/ensure-security-isolation-for-web-sites.md)
 ### [Analyzing Client Usage Data with IIS User Access Logging](manage/configuring-security/analyzing-client-usage-data-with-iis-user-access-logging.md)
 ### [Configure Request Filtering in IIS](manage/configuring-security/configure-request-filtering-in-iis.md)
 ### [IIS 8 - Certificate Management and Deployment](manage/configuring-security/iis-8-certificate-management-and-deployment.md)
-### [IIS 8 - Sandboxing and Security](manage/configuring-security/iis-8-sandboxing-and-security.md)
+## [IIS 8 - Sandboxing and Security](manage/configuring-security/iis-8-sandboxing-and-security.md)
 ## Managing Performance Settings
 ### [Improving Performance with Native Output Caching](manage/managing-performance-settings/improving-performance-with-native-output-caching.md)
 ### [Using WSRM to manage IIS 7 AppPool CPU Utilization](manage/managing-performance-settings/using-wsrm-to-manage-iis-7-apppool-cpu-utilization.md)
 ### [Walkthrough: IIS 7.0 Output Caching](manage/managing-performance-settings/walkthrough-iis-output-caching.md)
-### [Configure IIS 7 Output Caching](manage/managing-performance-settings/configure-iis-7-output-caching.md)
-### [Use Bit Rate Throttling](manage/managing-performance-settings/use-bit-rate-throttling.md)
+### [Configure IIS 7 Output Caching](manage/managing-performance-settings/configure-iis-7-output-caching.md)### [Use Bit Rate Throttling](manage/managing-performance-settings/use-bit-rate-throttling.md)
 ## Managing your Configuration Settings
 ### [Delegating Configuration to web.config Files](manage/managing-your-configuration-settings/delegating-configuration-to-webconfig-files.md)
 ### [Configuring a Web Farm Using IIS Shared Configuration](manage/managing-your-configuration-settings/configuring-a-web-farm-using-iis-shared-configuration.md)
@@ -150,8 +147,7 @@
 ### [Using Configuration History with IIS 7 and IIS 8](manage/managing-your-configuration-settings/using-configuration-history-with-iis-7-and-iis-8.md)
 ### [An Overview of Feature Delegation in IIS 7.0](manage/managing-your-configuration-settings/an-overview-of-feature-delegation-in-iis.md)
 ### [Understanding IIS 7.0 Configuration Delegation](manage/managing-your-configuration-settings/understanding-iis-configuration-delegation.md)
-### [How to Use Configuration Delegation in IIS 7.0](manage/managing-your-configuration-settings/how-to-use-configuration-delegation-in-iis.md)
-### [Shared Configuration](manage/managing-your-configuration-settings/shared-configuration_264.md)
+### [How to Use Configuration Delegation in IIS 7.0](manage/managing-your-configuration-settings/how-to-use-configuration-delegation-in-iis.md)### [Shared Configuration](manage/managing-your-configuration-settings/shared-configuration_264.md)
 ### [Using Configuration Editor: Generate Scripts](manage/managing-your-configuration-settings/using-configuration-editor-generate-scripts.md)
 ### [Editing Collections with Configuration Editor](manage/managing-your-configuration-settings/editing-collections-with-configuration-editor.md)
 ### [Editing Collections using Configuration Editor: Complex Sections](manage/managing-your-configuration-settings/editing-collections-using-configuration-editor-complex-sections.md)
@@ -161,8 +157,7 @@
 ### [Managing Worker Processes and AppDomains in IIS 7 with WMI](manage/scripting/managing-worker-processes-and-appdomains-in-iis-with-wmi.md)
 ### [How to Use Microsoft.Web.Administration](manage/scripting/how-to-use-microsoftwebadministration.md)
 ### [Accessing Configuration Sections Using Microsoft.Web.Administration (MWA)](manage/scripting/accessing-configuration-sections-using-microsoftwebadministration-mwa.md)
-### [Get to Know the IIS 7.0 WMI Provider Using CIM Studio](manage/scripting/get-to-know-the-iis-wmi-provider-using-cim-studio.md)
-## PowerShell
+### [Get to Know the IIS 7.0 WMI Provider Using CIM Studio](manage/scripting/get-to-know-the-iis-wmi-provider-using-cim-studio.md)## PowerShell
 ### [Writing PowerShell Commandlets for IIS 7.0](manage/powershell/writing-powershell-commandlets-for-iis.md)
 ### [An Introduction to Windows PowerShell and IIS 7.0](manage/powershell/an-introduction-to-windows-powershell-and-iis.md)
 ### [Getting Started with the IIS 7.0 PowerShell Snap-in](manage/powershell/getting-started-with-the-iis-powershell-snap-in.md)
@@ -185,7 +180,7 @@
 ### [Using IIS with Windows Server Core](manage/working-with-server-core/using-iis-with-windows-server-core.md)
 ### [IIS 7.0 on Server Core](manage/working-with-server-core/iis-70-on-server-core.md)
 ## Disaster Recovery 
-### [Disaster Recovery to Azure using Site Recovery](https://docs.microsoft.com/en-us/azure/site-recovery/site-recovery-iis) 
+### [Disaster Recovery to Azure using Site Recovery](https://aka.ms/asr-link-from-iis) 
 # Develop
 ## Runtime Extensibility
 ### [Extending Web Server Functionality in .NET](develop/runtime-extensibility/extending-web-server-functionality-in-net.md)
